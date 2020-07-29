@@ -110,7 +110,7 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Tutorials
-  url: /categories/
+  url: /tutorials/
 - title: Search
   url: /search/
 - title: Contact
