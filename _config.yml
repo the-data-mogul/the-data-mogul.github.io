@@ -113,8 +113,8 @@ navigation_header:
   url: /tutorials/
 - title: Search
   url: /search/
-- title: Contact
-  url: /contact/
+- title: Consult
+  url: /consult/
 
 navigation_footer:
 - title: Created by The Data Mogul
