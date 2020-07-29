@@ -63,7 +63,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Blog # Needed for Siteleaf
+    title: BLOG # Needed for Siteleaf
     output: true
     description: "Welcome to the E-Learning Platform. The platform includes the best curated content from YouTube for aspiring Data Scientists, Data Analysts, Data Engineers" # The post list page content
 #     feature_image: "/assets/logos/logo-main.png"
