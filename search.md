@@ -1,6 +1,6 @@
 ---
-title: Search
-excerpt: "Search for a page or post you're looking for"
+title: SEARCH
+excerpt: "Search for a Tutorial or Blog post you're looking for"
 ---
 
 {% include site-search.html %}
