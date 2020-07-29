@@ -65,9 +65,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "Best curated content from YouTube for aspiring Data Scientists, Data Analysts, Data Engineers" # The post list page content
-    feature_text: 
-      Welcome to the E-Learning Platform
+    description: "Welcome to the E-Learning Platform. The platform includes the best curated content from YouTube for aspiring Data Scientists, Data Analysts, Data Engineers" # The post list page content
     feature_image: "/assets/landing-page.png"
 
 # 6. Jekyll collections settings
@@ -81,8 +79,8 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "The Data Mogul | Free E-Learning" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/mylogo.png" # Site logo, also used in jekyll-seo-tag
+title: "The Data Mogul" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "FREE E-LEARNING WEBSITE. Best curated content from YouTube for aspiring Data Scientists, Data Analysts, Data Engineers" # Site description and default description, also used in jekyll-seo-tag
 url: "https://thedatamogul.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
