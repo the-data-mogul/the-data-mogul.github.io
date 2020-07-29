@@ -7,7 +7,7 @@ layout: page
 
 Welcome to the E-Learning Platform. The platform includes the best curated content from YouTube for aspiring Data Scientists, Data Analysts and Data Engineers.
 
-{% include button.html text="Share me" icon="facebook" link="https://facebook.com/The-Data-Mogul-109131170890309/" color="#0366d6" %} {% include button.html text="Tweet me" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://thedatamogul.com&text=The Data Mogul%20-%20A%20Free%20E-Learning%20Platform&via=the_datamogul" color="#0d94e7" %} {% include button.html text="Follow me" icon="instagram" link="https://instagram.com/the_data_mogul/" color="#d60370" %} 
+{% include button.html text="Share us" icon="facebook" link="https://facebook.com/The-Data-Mogul-109131170890309/" color="#0366d6" %} {% include button.html text="Tweet us" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://thedatamogul.com&text=The Data Mogul%20-%20A%20Free%20E-Learning%20Platform&via=the_datamogul" color="#0d94e7" %} {% include button.html text="Follow us" icon="instagram" link="https://instagram.com/the_data_mogul/" color="#d60370" %} 
 
 ## About
 
