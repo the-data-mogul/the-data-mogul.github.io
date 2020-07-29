@@ -11,8 +11,8 @@ Welcome to the E-Learning Platform. The platform includes the best curated conte
 
 ## About
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Simple and elegant design that can be used out of the box or as solid starting point
+- A guide to the best tutorials available for free on YouTube.
+- Useful for students enrolled in Engineering Colleges in India.
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
 - **Configurable colours** and typography in a single settings file
