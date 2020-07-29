@@ -4,4 +4,4 @@ indexing: false
 sitemap: false
 ---
 
-Thanks for getting in touch! We'll respond as soon as we can.
+Thanks for visiting the website, hope it helped you reach your career goals.
