@@ -1,6 +1,6 @@
 ---
 title: Home
-feature_image: "/assets/landing-page.png"
+feature_image: "/assets/logos/logo-mob.png"
 excerpt: "Welcome to the Free E-Learning Platform. The platform includes the best curated content from YouTube for aspiring Data Scientists, Data Analysts and Data Engineers."
 layout: page
 ---
