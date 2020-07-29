@@ -13,8 +13,8 @@ Welcome to the E-Learning Platform. The platform includes the best curated conte
 
 - A guide to the best tutorials available for free on YouTube.
 - Useful for students enrolled in Engineering Colleges in India.
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
+- Includes everything you need to know to be successful in a Data driven Industry.
+- Building Projects using the Tutorials listed here will help you get your dream job.
 - **Configurable colours** and typography in a single settings file
 
 ## Examples
