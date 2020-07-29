@@ -1,7 +1,7 @@
 ---
-title: Consult
+title: FREE CONSULTATION
 ---
 
-### FREE CONSULTATION (Contact Us)
+### Contact Us
 
 {% include site-form.html %}
