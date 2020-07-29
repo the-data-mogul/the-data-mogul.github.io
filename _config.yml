@@ -66,7 +66,7 @@ collections:
     title: Blog # Needed for Siteleaf
     output: true
     description: "Welcome to the E-Learning Platform. The platform includes the best curated content from YouTube for aspiring Data Scientists, Data Analysts, Data Engineers" # The post list page content
-    feature_image: "/assets/logos/logo-main.png"
+#     feature_image: "/assets/logos/logo-main.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -74,7 +74,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/logos/logo-main.png" # Default image for sharing
+#       image: "/assets/logos/logo-main.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
