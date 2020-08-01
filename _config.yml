@@ -65,7 +65,7 @@ collections:
   posts:
     title: BLOG # Needed for Siteleaf
     output: true
-    description: "Welcome to the E-Learning Platform. The platform includes the best curated content from YouTube for aspiring Data Scientists, Data Analysts, Data Engineers" # The post list page content
+    description: "The blog posts will compliment the tutorials and give you insight on the latest advancements in the relevant Technologies." # The post list page content
 #     feature_image: "/assets/logos/logo-main.png"
 
 # 6. Jekyll collections settings
