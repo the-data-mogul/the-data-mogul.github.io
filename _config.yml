@@ -115,6 +115,8 @@ navigation_header:
   url: /search/
 - title: Services
   url: /services/
+- title: Feedback
+  url: /feedback/
 
 navigation_footer:
 - title: Created by The Data Mogul
