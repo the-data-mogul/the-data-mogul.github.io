@@ -25,3 +25,4 @@ Use this information to effectively explore this site:
 - Tutorials, currently include only content from other YouTube creators. We do plan to release original content in the near future so stay tuned. 
 - Search different tutorials or blog posts using the Search tab.
 - Services include everything that we would like to do to contribute to the growing Talent in India, free of charge. So feel free to contact us and we look forward to help you achieve your dreams.
+- Help us provide a better experience for you by letting us know your thoughts on the website by giving us your Feedback.
