@@ -11,10 +11,11 @@ Welcome to the E-Learning Platform. The platform includes the best curated conte
 
 ## About
 
+- Started by NYU Alumni with Masters degree in Computer Science. These tutorials helped us immensely during our coursework at NYU.
 - A guide to the best tutorials available for free on YouTube.
-- Useful for students enrolled in Engineering Colleges in India.
-- Includes everything you need to know to be successful in a Data driven Industry.
-- Building Projects using the Tutorials listed here will help you get your dream job.
+- Most useful for students enrolled in Engineering Colleges in India. But anyone with a passion to learn Computer Science can make use of these resources.
+- Includes everything you need to know to be successful in a Data driven Industry including basic Computer Programming.
+- Building Projects using the Tutorials listed here will help you get your dream job or start your own Startup.
 
 ## Usage
 
