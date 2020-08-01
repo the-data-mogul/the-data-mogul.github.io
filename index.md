@@ -5,7 +5,7 @@ excerpt: "Welcome to the Free E-Learning Platform. The platform includes the bes
 layout: page
 ---
 
-Welcome to the E-Learning Platform. The platform includes the best curated content from YouTube for aspiring Data Scientists, Data Analysts and Data Engineers.
+Welcome to the E-Learning Platform. The platform includes the best curated content from YouTube for aspiring Data Scientists, Data Analysts and Data Engineers. Learn cutting-edge Technologies in the field of Artificial Intelligence: Data Science, Machine Learning, Deep Learning & Neural Network Computing, Cloud Computing, Big Data, etc. All the Tutorials in this site belong to respective creators on YouTube, shoutout to them for creating such valuable tutorials. This site is just a promoter of that content. 
 
 {% include button.html text="Share us" icon="facebook" link="https://facebook.com/The-Data-Mogul-109131170890309/" color="#0366d6" %} {% include button.html text="Tweet us" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://thedatamogul.com&text=The Data Mogul%20-%20A%20Free%20E-Learning%20Platform&via=the_datamogul" color="#0d94e7" %} {% include button.html text="Follow us" icon="instagram" link="https://instagram.com/the_data_mogul/" color="#d60370" %} {% include button.html text="Support us $5 💸" link="https://www.paypal.me/datamogul/5usd" color="#333333" %}
 
@@ -15,9 +15,8 @@ Welcome to the E-Learning Platform. The platform includes the best curated conte
 - Useful for students enrolled in Engineering Colleges in India.
 - Includes everything you need to know to be successful in a Data driven Industry.
 - Building Projects using the Tutorials listed here will help you get your dream job.
-- **Configurable colours** and typography in a single settings file
 
-## Examples
+## Usage
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
